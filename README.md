@@ -1,5 +1,15 @@
 # 💫 About Me:
-Cybersecurity Specialist | Penetration Tester | Security Tool Developer<br><br>Based in Tehran, Iran 🇮🇷<br><br>Experienced in vulnerability assessment, network & web application penetration testing, and developing custom security tools in Python. Currently serving as a Cybersecurity Expert (VA Specialist & Security Tool Developer) at Amin Ray, securing critical infrastructure for banks and government institutions.<br><br>B.Sc. Computer Engineering student at Islamic Azad University (graduating March 2026).<br><br>Certified: CEH, PWK (OSCP path), CCNA, Security+, Network+, Linux Essentials, and multiple advanced penetration testing courses.<br><br>Actively preparing for OSCP, CISSP, CCSP, and IELTS (General) for international opportunities, with a focus on cloud security and offensive security.<br><br>Passionate about ethical hacking, automation, and defensive security. Open to collaborations and global opportunities in the UAE and beyond.<br><br>🔐 Always learning, always securing.
+Cybersecurity Specialist | Offensive Security & Security Tool Development
+
+Offensive security practitioner with 5+ years of hands-on experience in penetration testing, vulnerability research, and security automation. Currently serving as Cybersecurity Specialist at Amin Ray Co., delivering comprehensive penetration testing services and infrastructure hardening solutions for enterprise clients including financial institutions and government organizations.
+
+My technical focus encompasses network penetration testing, web application security assessment, exploit development, and custom security tool creation using Python. I architect security solutions aligned with NIST, CIS, and industry-specific frameworks, translating complex security requirements into practical, defensible implementations.
+
+This repository showcases proprietary security tools, automation frameworks, and proof-of-concept exploits developed throughout my professional practice. Projects emphasize practical offensive security techniques, infrastructure hardening automation, and innovative approaches to vulnerability detection and remediation.
+
+**Core Competencies:** Penetration Testing | Vulnerability Assessment | Python Security Tool Development | Network Security | Infrastructure Hardening | Exploit Development | Security Automation
+
+Open to collaboration on offensive security projects, security tool development, and knowledge exchange with the global cybersecurity community.
 
 
 ## 🌐 Socials:
