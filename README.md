@@ -10,6 +10,7 @@ This repository showcases proprietary security tools, automation frameworks, and
 **Core Competencies:** Penetration Testing | Vulnerability Assessment | Python Security Tool Development | Network Security | Infrastructure Hardening | Exploit Development | Security Automation
 
 Open to collaboration on offensive security projects, security tool development, and knowledge exchange with the global cybersecurity community.
+https://translate.google.com/?hl=fa
 
 
 ## 🌐 Socials:
