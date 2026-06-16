@@ -1,34 +1,178 @@
-# 💫 About Me:
-Cybersecurity Specialist | Offensive Security & Security Tool Development
+<div align="center">
 
-Offensive security practitioner with 5+ years of hands-on experience in penetration testing, vulnerability research, and security automation. Currently serving as Cybersecurity Specialist at Amin Ray Co., delivering comprehensive penetration testing services and infrastructure hardening solutions for enterprise clients including financial institutions and government organizations.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=arkanzasfeziii&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Analyst+%7C+Offensive+Security+Specialist&descSize=18&descAlignY=56&descFontColor=cccccc"/>
 
-My technical focus encompasses network penetration testing, web application security assessment, exploit development, and custom security tool creation using Python. I architect security solutions aligned with NIST, CIS, and industry-specific frameworks, translating complex security requirements into practical, defensible implementations.
+</div>
 
-This repository showcases proprietary security tools, automation frameworks, and proof-of-concept exploits developed throughout my professional practice. Projects emphasize practical offensive security techniques, infrastructure hardening automation, and innovative approaches to vulnerability detection and remediation.
+<div align="center">
 
-**Core Competencies:** Penetration Testing | Vulnerability Assessment | Python Security Tool Development | Network Security | Infrastructure Hardening | Exploit Development | Security Automation
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+Network+%26+Infrastructure+%26+Web+App;Python+Security+Tool+Developer;4%2B+Years+in+Offensive+%26+Defensive+Security;Breaking+things+ethically+%F0%9F%94%90" alt="Typing SVG" />
+</a>
 
-Open to collaboration on offensive security projects, security tool development, and knowledge exchange with the global cybersecurity community.
+<br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arkanzasfeziii@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Arkanzasfeziii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arkanzas.vibe)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=arkanzasfeziii&color=58A6FF&style=flat-square&label=Profile+Views)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arkanzasfeziii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arkanzas.vibe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkanzasfeziii@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arkanzasfeziii&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arkanzasfeziii&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkanzasfeziii&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arkanzasfeziii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arkanzasfeziii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 👤 About Me
+
+🏢 **Cybersecurity Analyst** @ Amin Ray Co. · Tehran, Iran  
+🎯 Pentest: **Network · Infrastructure · Web App**  
+🛠️ Building **open-source offensive security tools** in Python  
+📚 B.Sc. Computer Engineering @ IAU Tehran  
+💼 4+ years in cybersecurity — analyst → VA → pentest  
+🤝 Open to collaboration on security research & tool development  
+
+</td>
+<td width="48%" valign="top">
+
+### 🎯 What I Do
+
+⚔️ Red Team Operations & Penetration Testing  
+🌐 Web Application Security (OWASP Top 10)  
+🖧 Network & Infrastructure Security Assessment  
+☁️ Cloud Security (AWS · Azure · GCP)  
+🔧 Python Security Tool Development & Automation  
+📋 CVSS Risk Scoring & Technical Reporting  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ Arsenal
+
+**Offensive Tools**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004482?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00BB00?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-57A143?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-4B275F?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Standards & Frameworks**
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_SP_800--53-003087?style=for-the-badge&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS_Benchmarks-00457C?style=for-the-badge&logoColor=white)
+![CVSS](https://img.shields.io/badge/CVSS-CC0000?style=for-the-badge&logoColor=white)
+![PTES](https://img.shields.io/badge/PTES-333333?style=for-the-badge&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|:--------|:------------|
+| [🌐 Cloud Config Security Scanner](https://github.com/arkanzasfeziii/Cloud-Configuration-Security-Scanner) | Multi-cloud misconfiguration detector for AWS, Azure & GCP — aligned with CIS Benchmarks & OWASP |
+| [🔗 Supply Chain Security Analyzer](https://github.com/arkanzasfeziii/Supply-Chain-Security-Analyzer) | SBOM-focused security tool for software supply chain risk, vulnerability & license analysis |
+| [☸️ Kubernetes Security Auditor](https://github.com/arkanzasfeziii/Kubernetes-Container-Runtime-Security-Auditor) | CIS Kubernetes Benchmark auditing tool for container runtime & workload security assessment |
+| [📡 Network Protocol Fuzzer](https://github.com/arkanzasfeziii/Network-Protocol-Fuzzer) | Mutation-based fuzzer for HTTP/S, FTP, SMTP, SSH, DNS & raw TCP security testing |
+| [🏢 AD/LDAP Security Hardener](https://github.com/arkanzasfeziii/Active-Directory-LDAP-Security-Hardener) | Professional security assessment & hardening tool for Active Directory & LDAP environments |
+| [🔐 Smart Contract Scanner](https://github.com/arkanzasfeziii/Smart-Contract-Security-Scanner) | Static analysis tool for detecting Solidity smart contract vulnerabilities pre-deployment |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arkanzasfeziii&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkanzasfeziii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=arkanzasfeziii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arkanzasfeziii&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=arkanzasfeziii&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=F0883E&hide_border=true" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|:-------------|:--------:|
+| CEH v12 — Certified Ethical Hacker | TOSINSO |
+| Web Application Penetration Testing Expert | TOSINSO |
+| Advanced Web App Penetration Tester | TOSINSO |
+| Penetration Testing with Kali Linux (PWK) | TOSINSO |
+| Metasploit Expert | TOSINSO |
+| CCNA — Implementing & Administering Cisco Solutions | Cisco |
+| Network+ | Fanavaran Anisa |
+| Linux Essentials | Fanavaran Anisa |
+| Python Programming + Advanced Python | Fanavaran Anisa |
+| A+ Essentials + IT Technician | SEMATEC |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkanzasfeziii@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Arkanzasfeziii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arkanzas.vibe)
+
+*Open to collaboration on offensive security projects, security research & tool development.*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
