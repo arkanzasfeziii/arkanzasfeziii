@@ -10,7 +10,7 @@
 
 <p align="center">
 Offensive security practitioner with 4+ years of hands-on experience in penetration testing and vulnerability research.<br/>
-Currently working as <strong>Cybersecurity Specialist</strong> at <strong>Amin Ray Co.</strong> — delivering network infrastructure and web application penetration testing for enterprise clients including financial institutions and government organizations.<br/>
+Currently working as <strong>Cybersecurity Specialist</strong> at <strong>Amin Ray Co.</strong> — delivering network infrastructure and web application penetration testing for high-profile enterprise clients across financial services, critical infrastructure, and regulated industries.<br/>
 Focused on breaking complex systems ethically: from cloud misconfigurations and network infrastructure to AI model attack surfaces.
 </p>
 
