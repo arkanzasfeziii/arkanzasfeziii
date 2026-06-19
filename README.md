@@ -44,24 +44,22 @@ Open to offensive security and red team roles in **Germany and Europe**.
 
 ---
 
-## Security Platform Suite *(Active Development)*
+## Security Platform Suite
 
 Building **11 modular offensive security platforms** — each covering a complete attack surface domain, built for practitioners, not compliance reports.
 
-| Platform | Focus Areas |
-|---|---|
-| ☁️ **Cloud Security Platform** | Posture assessment · IAM analysis · Misconfiguration detection · Compliance mapping |
-| 🌐 **Web & API Security Suite** | Full-coverage web & API attack simulation · OWASP alignment · Business logic flaws |
-| 📡 **Network Security Suite** | Traffic inspection · Protocol fuzzing · Firewall auditing · Segmentation validation |
-| 🔒 **Identity & Access Management** | Active Directory attacks · Privilege escalation paths · Access control validation |
-| 🐳 **Container & Kubernetes Security** | Runtime auditing · Pod security · CIS benchmark enforcement |
-| 🔗 **DevSecOps & Supply Chain** | SBOM analysis · Dependency scanning · Pipeline security testing |
-| 🛡️ **Endpoint & Mobile Security** | Endpoint hardening validation · Mobile attack surface analysis |
-| 🧠 **Threat Intelligence & Hunting** | IOC correlation · Threat modeling · Hunt automation |
-| 🔐 **Data Security & Privacy** | Encryption validation · Data exposure detection · Privacy risk analysis |
-| 📱 **Specialized & Emerging Tech** | IoT/OT · Smart contracts · Emerging attack surfaces |
-
-> Repositories will be published progressively as each platform reaches a stable release.
+| Platform | Repository | Focus Areas |
+|---|---|---|
+| ☁️ **Cloud Security** | [Nebula](https://github.com/arkanzasfeziii/Nebula) | IAM privilege escalation · IMDS credential harvest · Persistence · Role chaining · S3 exfiltration · AWS / Azure / GCP |
+| 🌐 **Web & API Security** | [Sentinel](https://github.com/arkanzasfeziii/Sentinel) | SSRF → cloud creds · IDOR enumeration · JWT/OAuth attacks · SQL/NoSQL/SSTI injection · GraphQL exploitation |
+| 📡 **Network & Infrastructure** | [Aegis](https://github.com/arkanzasfeziii/Aegis) | SMB/LDAP/DNS/SNMP enumeration · Credential attacks · Lateral movement · DNS C2 tunneling · IoT/OT |
+| 🔒 **Active Directory** | [Sovereign](https://github.com/arkanzasfeziii/Sovereign) | Kerberoasting · AS-REP roasting · DCSync · ACL abuse · Pass-the-Hash · Full AD kill chain |
+| 🐳 **Kubernetes & Cloud Native** | [Kraken](https://github.com/arkanzasfeziii/Kraken) | RBAC misconfig · Secret extraction · Container escape · SA token abuse · IMDS bridge · etcd access |
+| 🔗 **CI/CD & Supply Chain** | [BlackForge](https://github.com/arkanzasfeziii/BlackForge) | GitHub Actions injection · Jenkins Groovy RCE · GitLab CI vars · ArgoCD defaults · Dependency confusion |
+| 🛡️ **Endpoint & Mobile Security** | *(in development)* | Endpoint hardening validation · Mobile attack surface analysis |
+| 🧠 **Threat Intelligence & Hunting** | *(in development)* | IOC correlation · Threat modeling · Hunt automation |
+| 🔐 **Data Security & Privacy** | *(in development)* | Encryption validation · Data exposure detection · Privacy risk analysis |
+| 📱 **Specialized & Emerging Tech** | *(in development)* | Smart contracts · Emerging attack surfaces |
 
 ---
 
