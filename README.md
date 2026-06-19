@@ -46,7 +46,7 @@ Open to offensive security and red team roles in **Germany and Europe**.
 
 ## Security Platform Suite
 
-Building **11 modular offensive security platforms** — each covering a complete attack surface domain, built for practitioners, not compliance reports.
+Building **13 modular offensive security platforms** — each covering a complete attack surface domain, built for practitioners, not compliance reports.
 
 | Platform | Repository | Focus Areas |
 |---|---|---|
@@ -56,10 +56,13 @@ Building **11 modular offensive security platforms** — each covering a complet
 | 🔒 **Active Directory** | [Sovereign](https://github.com/arkanzasfeziii/Sovereign) | Kerberoasting · AS-REP roasting · DCSync · ACL abuse · Pass-the-Hash · Full AD kill chain |
 | 🐳 **Kubernetes & Cloud Native** | [Kraken](https://github.com/arkanzasfeziii/Kraken) | RBAC misconfig · Secret extraction · Container escape · SA token abuse · IMDS bridge · etcd access |
 | 🔗 **CI/CD & Supply Chain** | [BlackForge](https://github.com/arkanzasfeziii/BlackForge) | GitHub Actions injection · Jenkins Groovy RCE · GitLab CI vars · ArgoCD defaults · Dependency confusion |
-| 🛡️ **Endpoint & Mobile Security** | *(in development)* | Endpoint hardening validation · Mobile attack surface analysis |
-| 🧠 **Threat Intelligence & Hunting** | *(in development)* | IOC correlation · Threat modeling · Hunt automation |
-| 🔐 **Data Security & Privacy** | *(in development)* | Encryption validation · Data exposure detection · Privacy risk analysis |
-| 📱 **Specialized & Emerging Tech** | *(in development)* | Smart contracts · Emerging attack surfaces |
+| 🔍 **OSINT & Passive Recon** | Spectre *(coming soon)* | Subdomain enumeration · Email harvesting · Breach data · DNS intel · Shodan/Censys · Certificate transparency |
+| 🎭 **Social Engineering** | Mirage *(coming soon)* | Phishing page generation · Credential harvesting · Email spoofing · MFA bypass simulation · C2 callback infra |
+| 🗄️ **Database Offensive** | VaultBreaker *(coming soon)* | Blind/time-based SQLi · MongoDB/Redis/Elasticsearch unauthenticated access · Credential extraction · Data exfiltration |
+| 👻 **Evasion & Payload Crafting** | Ghost *(coming soon)* | AMSI bypass · AV evasion · Process injection · PowerShell LOLBaS · Shellcode staging · EDR fingerprinting |
+| 📱 **Mobile Offensive** | Pulse *(coming soon)* | Android APK analysis · Frida hooking · SSL pinning bypass · Intent exploitation · iOS binary analysis |
+| 📶 **Wireless Attacks** | Tempest *(coming soon)* | WPA2 handshake capture · Evil twin · Deauth · PMKID attack · RADIUS EAP exploitation · Rogue AP |
+| 🔧 **Physical & Hardware** | Forge *(coming soon)* | BadUSB payload generation · RFID/NFC clone templates · Physical recon · Lock bypass · USB keylogger drops |
 
 ---
 
@@ -122,9 +125,8 @@ Building **11 modular offensive security platforms** — each covering a complet
 ## Roadmap
 
 ```
-2025 – 2026   Completing and releasing the 11 security platforms
-2026          Pursuing OSCP and advanced offensive certifications
-              Publishing security research and technical write-ups in English
+2025 – 2026   Completing and releasing the 13 security platforms
+2026          Pursuing OSEE and advanced offensive certifications
               Relocating to Europe — targeting senior offensive security roles in Germany
 ```
 
