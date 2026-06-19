@@ -26,7 +26,7 @@ I design and build offensive security platforms that model real-world adversary 
 
 My focus is on **modular security frameworks** — not isolated scripts — that identify attack paths, validate security posture, and help organizations understand their actual exposure before adversaries do.
 
-Currently working as a **Penetration Tester** conducting network, infrastructure, and web application assessments for enterprise clients. I also write about offensive security in Persian to bring structured, practical knowledge to the regional security community.
+Currently working as a **Penetration Tester** conducting network, infrastructure, and web application assessments for large-scale enterprise environments. I also write about offensive security in Persian to bring structured, practical knowledge to the regional security community.
 
 Open to offensive security and red team roles in **Germany and Europe**.
 
@@ -36,32 +36,32 @@ Open to offensive security and red team roles in **Germany and Europe**.
 
 ```
 🔴  Network & Infrastructure     Attack path analysis · Protocol fuzzing · Firewall auditing · Traffic inspection
-🌐  Web & API Security           SSRF · IDOR · Injection · Business logic · GraphQL · API posture
+🌐  Web & API Security           SSRF · IDOR · Injection · Business logic · GraphQL · API posture assessment
 ☁️  Cloud Security               Misconfiguration detection · IAM exploitation · AWS · Azure · GCP
 🔒  Identity & Access            Active Directory attacks · Privilege escalation · Access control validation
-⚙️  Security Automation          Offensive tooling · Attack simulation · Automated vuln detection
+⚙️  Security Automation          Offensive tooling · Attack simulation · Automated vulnerability detection
 ```
 
 ---
 
-## Security Platform Suite
+## Security Platform Suite *(Active Development)*
 
-> Building **11 modular offensive security platforms** — each covering a complete attack surface domain. Designed for practitioners, not compliance reports.
+Building **11 modular offensive security platforms** — each covering a complete attack surface domain, built for practitioners, not compliance reports.
 
 | Platform | Focus Areas |
 |---|---|
 | ☁️ **Cloud Security Platform** | Posture assessment · IAM analysis · Misconfiguration detection · Compliance mapping |
-| 🌐 **Web & API Security Suite** | Full-coverage web & API attack simulation · OWASP alignment · Business logic |
-| 📡 **Network Security Suite** | Traffic inspection · Fuzzing · Firewall auditing · Segmentation validation |
-| 🔒 **Identity & Access Management** | AD attacks · Privilege escalation paths · Access control validation |
+| 🌐 **Web & API Security Suite** | Full-coverage web & API attack simulation · OWASP alignment · Business logic flaws |
+| 📡 **Network Security Suite** | Traffic inspection · Protocol fuzzing · Firewall auditing · Segmentation validation |
+| 🔒 **Identity & Access Management** | Active Directory attacks · Privilege escalation paths · Access control validation |
 | 🐳 **Container & Kubernetes Security** | Runtime auditing · Pod security · CIS benchmark enforcement |
-| 🔗 **DevSecOps & Supply Chain** | SBOM analysis · Dependency scanning · Pipeline security |
-| 🛡️ **Endpoint & Mobile Security** | Endpoint hardening · Mobile attack surface analysis |
+| 🔗 **DevSecOps & Supply Chain** | SBOM analysis · Dependency scanning · Pipeline security testing |
+| 🛡️ **Endpoint & Mobile Security** | Endpoint hardening validation · Mobile attack surface analysis |
 | 🧠 **Threat Intelligence & Hunting** | IOC correlation · Threat modeling · Hunt automation |
-| 🔐 **Data Security & Privacy** | Encryption validation · Data exposure detection |
+| 🔐 **Data Security & Privacy** | Encryption validation · Data exposure detection · Privacy risk analysis |
 | 📱 **Specialized & Emerging Tech** | IoT/OT · Smart contracts · Emerging attack surfaces |
 
-*Platforms are under active development — release in progress.*
+> Repositories will be published progressively as each platform reaches a stable release.
 
 ---
 
@@ -70,10 +70,10 @@ Open to offensive security and red team roles in **Germany and Europe**.
 ```
 →  Modular architecture     Frameworks, not one-off scripts
 →  Automation first         If it can be repeated, it should be automated
-→  Offensive mindset        Built to find what scanners miss
+→  Offensive mindset        Built to find what automated scanners miss
 →  Real-world simulation    Adversary behavior, not isolated CVEs
-→  Practical output         Findings that teams can actually act on
-→  Clean documentation      Tools are only as good as their docs
+→  Practical output         Findings that security teams can actually act on
+→  Clean documentation      A tool is only as good as its documentation
 ```
 
 ---
@@ -89,9 +89,10 @@ Open to offensive security and red team roles in **Germany and Europe**.
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00BB2D?style=flat-square)
 
 **Cloud Platforms**
 
@@ -99,13 +100,10 @@ Open to offensive security and red team roles in **Germany and Europe**.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**Infrastructure**
+**Infrastructure & Frameworks**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Frameworks & Standards**
-
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square)
 ![NIST](https://img.shields.io/badge/NIST-003087?style=flat-square)
@@ -117,21 +115,9 @@ Open to offensive security and red team roles in **Germany and Europe**.
 
 - Cloud attack path chaining across IAM, compute, and storage layers
 - Network segmentation validation under adversarial conditions
-- API security beyond OWASP Top 10 — business logic and authorization flaws
-- Automating offensive security workflows at scale
+- API security beyond OWASP Top 10 — authorization flaws and business logic exploitation
+- Automating offensive security workflows at enterprise scale
 - Writing an offensive security book in Persian — structured adversary simulation methodology
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkanzasfeziii&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkanzasfeziii&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
@@ -140,8 +126,8 @@ Open to offensive security and red team roles in **Germany and Europe**.
 ```
 2025 – 2026   Completing and releasing the 11 security platforms
 2026          Pursuing OSCP and advanced offensive certifications
-              Contributing security research in English
-              Relocating to Europe — targeting senior offensive security roles
+              Publishing security research and technical write-ups in English
+              Relocating to Europe — targeting senior offensive security roles in Germany
 ```
 
 ---
