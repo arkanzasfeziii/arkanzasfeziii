@@ -1,214 +1,160 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&width=720&lines=Offensive+Security+Specialist;Network+%26+Infrastructure+Pentester;Cloud+Security+Researcher;AI+Security+Researcher;Breaking+systems+ethically." alt="Typing SVG" />
+<h1>Alireza Fazlollahi</h1>
 
-<br/><br/>
+<h3>Offensive Security Engineer</h3>
 
-## Alireza Fazlollahi
-
-**`Offensive Security · Network & Infrastructure · Cloud · AI Security`**
-
-<p align="center">
-Offensive security practitioner with 4+ years of hands-on experience in penetration testing and vulnerability research.<br/>
-Currently working as <strong>Cybersecurity Specialist</strong> at <strong>Amin Ray Co.</strong> — delivering network infrastructure and web application penetration testing for high-profile enterprise clients across financial services, critical infrastructure, and regulated industries.<br/>
-Focused on breaking complex systems ethically: from cloud misconfigurations and network infrastructure to AI model attack surfaces.
+<p>
+<strong>Designing Modular Security Platforms for<br>
+Cloud &nbsp;·&nbsp; Network &nbsp;·&nbsp; Web &nbsp;·&nbsp; API &nbsp;·&nbsp; Enterprise Infrastructure</strong>
 </p>
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arkanzasfeziii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii)
-[![Email](https://img.shields.io/badge/Email-arkanzasfeziii%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkanzasfeziii@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Arkanzasfeziii-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Arkanzasfeziii)
-[![Instagram](https://img.shields.io/badge/Instagram-arkanzas.vibe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arkanzas.vibe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arkanzasfeziii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alireza.fazlollahi.cybersec@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Tehran%2C%20Iran-555555?style=flat-square)](-)
+[![Open to](https://img.shields.io/badge/Open%20to-Roles%20in%20Europe-2ea44f?style=flat-square)](-)
 
 </div>
 
 ---
 
-## 🎯 Focus Areas
+## About
 
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
+I design and build offensive security platforms that model real-world adversary behavior across cloud, network, web, and enterprise environments.
 
-### 🌐 Network & Infrastructure
-Penetration testing of enterprise networks, firewalls, IDS/IPS, VPNs, Active Directory environments, and industrial control systems.
+My focus is on **modular security frameworks** — not isolated scripts — that identify attack paths, validate security posture, and help organizations understand their actual exposure before adversaries do.
 
-</td>
-<td width="25%" align="center" valign="top">
+Currently working as a **Penetration Tester** conducting network, infrastructure, and web application assessments for enterprise clients. I also write about offensive security in Persian to bring structured, practical knowledge to the regional security community.
 
-### ☁️ Cloud Security
-Offensive assessment of AWS, Azure, and GCP misconfigurations — IAM privilege escalation, storage exploitation, serverless attacks.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🤖 AI Security
-Research on LLM attack surfaces — prompt injection, model extraction, adversarial inputs, and AI-integrated application vulnerabilities.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🕸️ Web Application
-OWASP Top 10, API security testing, GraphQL exploitation, SSRF, IDOR, business logic flaws, and authentication bypass.
-
-</td>
-</tr>
-</table>
+Open to offensive security and red team roles in **Germany and Europe**.
 
 ---
 
-## ⚔️ Offensive Arsenal
+## Core Security Domains
 
-**Penetration Testing Tools**
+```
+🔴  Network & Infrastructure     Attack path analysis · Protocol fuzzing · Firewall auditing · Traffic inspection
+🌐  Web & API Security           SSRF · IDOR · Injection · Business logic · GraphQL · API posture
+☁️  Cloud Security               Misconfiguration detection · IAM exploitation · AWS · Azure · GCP
+🔒  Identity & Access            Active Directory attacks · Privilege escalation · Access control validation
+⚙️  Security Automation          Offensive tooling · Attack simulation · Automated vuln detection
+```
 
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C0E8?style=for-the-badge&logo=tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4EAA25?style=for-the-badge&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
+---
+
+## Security Platform Suite
+
+> Building **11 modular offensive security platforms** — each covering a complete attack surface domain. Designed for practitioners, not compliance reports.
+
+| Platform | Focus Areas |
+|---|---|
+| ☁️ **Cloud Security Platform** | Posture assessment · IAM analysis · Misconfiguration detection · Compliance mapping |
+| 🌐 **Web & API Security Suite** | Full-coverage web & API attack simulation · OWASP alignment · Business logic |
+| 📡 **Network Security Suite** | Traffic inspection · Fuzzing · Firewall auditing · Segmentation validation |
+| 🔒 **Identity & Access Management** | AD attacks · Privilege escalation paths · Access control validation |
+| 🐳 **Container & Kubernetes Security** | Runtime auditing · Pod security · CIS benchmark enforcement |
+| 🔗 **DevSecOps & Supply Chain** | SBOM analysis · Dependency scanning · Pipeline security |
+| 🛡️ **Endpoint & Mobile Security** | Endpoint hardening · Mobile attack surface analysis |
+| 🧠 **Threat Intelligence & Hunting** | IOC correlation · Threat modeling · Hunt automation |
+| 🔐 **Data Security & Privacy** | Encryption validation · Data exposure detection |
+| 📱 **Specialized & Emerging Tech** | IoT/OT · Smart contracts · Emerging attack surfaces |
+
+*Platforms are under active development — release in progress.*
+
+---
+
+## Engineering Principles
+
+```
+→  Modular architecture     Frameworks, not one-off scripts
+→  Automation first         If it can be repeated, it should be automated
+→  Offensive mindset        Built to find what scanners miss
+→  Real-world simulation    Adversary behavior, not isolated CVEs
+→  Practical output         Findings that teams can actually act on
+→  Clean documentation      Tools are only as good as their docs
+```
+
+---
+
+## Technology
 
 **Languages & Scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Cloud & Container Platforms**
+**Security Tooling**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-**Operating Systems & Environments**
+**Cloud Platforms**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Frameworks & Standards**
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![PTES](https://img.shields.io/badge/PTES-8B0000?style=for-the-badge&logoColor=white)
-![CVSS](https://img.shields.io/badge/CVSS-FF6600?style=for-the-badge&logoColor=white)
-![CIS](https://img.shields.io/badge/CIS_Benchmarks-003366?style=for-the-badge&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_800--53-1B4F72?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST-003087?style=flat-square)
+![CIS](https://img.shields.io/badge/CIS_Benchmarks-005288?style=flat-square)
 
 ---
 
-## 🔭 Featured Projects
+## Current Research
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### [🔀 Network Protocol Fuzzer](https://github.com/arkanzasfeziii/Network-Protocol-Fuzzer)
-Mutation-based network protocol fuzzer supporting HTTP/S, FTP, SMTP, SSH, and DNS — with anomaly detection, crash analysis, and structured reporting.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Network](https://img.shields.io/badge/Network-Offensive-red?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [📡 IoT/OT Device & Network Scanner](https://github.com/arkanzasfeziii/IoT-OT-Device-Firmware-Network-Scanner)
-Offensive scanner for IoT and OT/ICS devices — fingerprinting, vulnerability assessment, and network mapping across industrial environments.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IoT/OT](https://img.shields.io/badge/IoT%2FOT-Offensive-red?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [☁️ Cloud Configuration Security Scanner](https://github.com/arkanzasfeziii/Cloud-Configuration-Security-Scanner)
-Multi-cloud misconfiguration scanner for AWS, Azure, and GCP — aligned with CIS Benchmarks and OWASP Cloud Security standards.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Offensive-red?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [💰 Cloud Cost Anomaly & Security Correlator](https://github.com/arkanzasfeziii/Cloud-Cost-Anomaly-Security-Correlator)
-Correlates multi-cloud billing anomalies with security events — detects crypto mining, data exfiltration, and unauthorized access across AWS, Azure, and GCP.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Threat_Detection-red?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [⚙️ Kubernetes Container Runtime Auditor](https://github.com/arkanzasfeziii/Kubernetes-Container-Runtime-Security-Auditor)
-Offensive security auditor for Kubernetes clusters and container workloads — based on CIS Kubernetes Benchmark and Pod Security Standards.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![K8s](https://img.shields.io/badge/Kubernetes-Offensive-red?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [🔗 Supply Chain Security Analyzer](https://github.com/arkanzasfeziii/Supply-Chain-Security-Analyzer)
-SBOM-focused security analysis for software supply chain risk — identifies vulnerabilities, compromised dependencies, and license compliance issues.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-Offensive-red?style=flat-square)
-
-</td>
-</tr>
-</table>
+- Cloud attack path chaining across IAM, compute, and storage layers
+- Network segmentation validation under adversarial conditions
+- API security beyond OWASP Top 10 — business logic and authorization flaws
+- Automating offensive security workflows at scale
+- Writing an offensive security book in Persian — structured adversary simulation methodology
 
 ---
 
-## 📜 Certifications
-
-| Certification | Institution |
-|:---|:---|
-| CEH v12 — Certified Ethical Hacker | TOSINSO |
-| Web Application Penetration Testing Expert | TOSINSO |
-| Advanced Web App Penetration Tester | TOSINSO |
-| Penetration Testing with Kali Linux (PWK) | TOSINSO |
-| Metasploit Expert | TOSINSO |
-| CCNA — Implementing & Administering Cisco Solutions | Sematec |
-| CompTIA Network+ | Fanavaran Anisa |
-| Linux Essentials | Fanavaran Anisa |
-| Python Programming & Advanced Python | Fanavaran Anisa |
-| A+ Essentials & IT Technician | Sematec |
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkanzasfeziii&theme=merko&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkanzasfeziii&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs,issues)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=arkanzasfeziii&theme=merko&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkanzasfeziii&theme=merko&hide_border=true&include_all_commits=true&layout=compact)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkanzasfeziii&theme=merko&hide_border=true&area=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkanzasfeziii&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
+## Roadmap
+
+```
+2025 – 2026   Completing and releasing the 11 security platforms
+2026          Pursuing OSCP and advanced offensive certifications
+              Contributing security research in English
+              Relocating to Europe — targeting senior offensive security roles
+```
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arkanzasfeziii)
+[![Email](https://img.shields.io/badge/Email-alireza.fazlollahi.cybersec%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alireza.fazlollahi.cybersec@gmail.com)
+
+---
+
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."*
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=arkanzasfeziii&icon=6&color=12)](https://visitcount.itsvg.in)
+*Building security platforms that model real-world adversaries and improve defensive resilience.*
 
 </div>
