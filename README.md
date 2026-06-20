@@ -56,13 +56,13 @@ Building **13 modular offensive security platforms** — each covering a complet
 | 🔒 **Active Directory** | [Sovereign](https://github.com/arkanzasfeziii/Sovereign) | Kerberoasting · AS-REP roasting · DCSync · ACL abuse · Pass-the-Hash · Full AD kill chain |
 | 🐳 **Kubernetes & Cloud Native** | [Kraken](https://github.com/arkanzasfeziii/Kraken) | RBAC misconfig · Secret extraction · Container escape · SA token abuse · IMDS bridge · etcd access |
 | 🔗 **CI/CD & Supply Chain** | [BlackForge](https://github.com/arkanzasfeziii/BlackForge) | GitHub Actions injection · Jenkins Groovy RCE · GitLab CI vars · ArgoCD defaults · Dependency confusion |
-| 🔍 **OSINT & Passive Recon** | Spectre *(coming soon)* | Subdomain enumeration · Email harvesting · Breach data · DNS intel · Shodan/Censys · Certificate transparency |
-| 🎭 **Social Engineering** | Mirage *(coming soon)* | Phishing page generation · Credential harvesting · Email spoofing · MFA bypass simulation · C2 callback infra |
-| 🗄️ **Database Offensive** | VaultBreaker *(coming soon)* | Blind/time-based SQLi · MongoDB/Redis/Elasticsearch unauthenticated access · Credential extraction · Data exfiltration |
-| 👻 **Evasion & Payload Crafting** | Ghost *(coming soon)* | AMSI bypass · AV evasion · Process injection · PowerShell LOLBaS · Shellcode staging · EDR fingerprinting |
-| 📱 **Mobile Offensive** | Pulse *(coming soon)* | Android APK analysis · Frida hooking · SSL pinning bypass · Intent exploitation · iOS binary analysis |
-| 📶 **Wireless Attacks** | Tempest *(coming soon)* | WPA2 handshake capture · Evil twin · Deauth · PMKID attack · RADIUS EAP exploitation · Rogue AP |
-| 🔧 **Physical & Hardware** | Forge *(coming soon)* | BadUSB payload generation · RFID/NFC clone templates · Physical recon · Lock bypass · USB keylogger drops |
+| 🔍 **OSINT & Passive Recon** | [Spectre](https://github.com/arkanzasfeziii/Spectre) | Subdomain enumeration · Email harvesting · DNS intel · Certificate transparency · Infrastructure fingerprinting · Org footprinting |
+| 🎭 **Social Engineering** | [Mirage](https://github.com/arkanzasfeziii/Mirage) | Phishing page cloning · Credential harvesting · SPF/DKIM/DMARC analysis · MFA bypass simulation · Pretexting · C2 callbacks |
+| 🗄️ **Database Offensive** | [VaultBreaker](https://github.com/arkanzasfeziii/VaultBreaker) | SQL injection exploitation · MongoDB/Redis/Elasticsearch unauthenticated access · Credential extraction · Data exfiltration |
+| 👻 **Evasion & Payload Crafting** | [Ghost](https://github.com/arkanzasfeziii/Ghost) | AMSI bypass · AV evasion encoding · Process injection · LOLBaS · Shellcode staging · EDR fingerprinting |
+| 📱 **Mobile Offensive** | [Pulse](https://github.com/arkanzasfeziii/Pulse) | Android APK analysis · Frida hooking · SSL pinning bypass · Intent exploitation · iOS binary analysis · Traffic interception |
+| 📶 **Wireless Attacks** | [Tempest](https://github.com/arkanzasfeziii/Tempest) | WPA2 handshake capture · Evil twin · Deauth · PMKID attack · RADIUS EAP exploitation · Rogue AP |
+| 🔧 **Physical & Hardware** | [Forge](https://github.com/arkanzasfeziii/Forge) | BadUSB payload generation · RFID/NFC cloning · Physical recon · Lock bypass · Keylogger deployment · Hardware implants |
 
 ---
 
